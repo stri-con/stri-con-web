@@ -1,0 +1,21 @@
+---
+- group: Course & Resources
+  items:
+    - title: Course on  Statistical Modeling in R
+      url: https://stri-con.github.io/ecodet2020/
+      icon: fas fa-search
+    - title: Course on Web Products & Data Curation
+      url: http://paulbourke.net/fractals/clifford/
+      icon: fas fa-database
+    - title: Course on Genome Assembly
+      url: https://en.wikipedia.org/wiki/Girih_tiles
+      icon: fas fa-dna
+    - title: Slack Site
+      url: https://stri-panama.slack.com
+      icon: fab fa-slack
+    - title: Some other project
+      url: https://stri-panama.slack.com
+      icon: fab fa-slack
+    - title: And another
+      url: https://stri-panama.slack.com
+      icon: fab fa-slack

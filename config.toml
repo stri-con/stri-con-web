@@ -1,0 +1,45 @@
+baseURL = "https://stri-con.github.io/"
+languageCode = "en-US"
+title = "STRI-CON"
+theme = "bootstrap-bp-hugo-startpage"
+# googleAnalytics = "UA-123-45"
+copyright = "Sebastian Pech"
+enableRobotsTXT = true
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 5
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"
+
+[Author]
+  name = "Jarrod J Scott"
+
+[params]
+  description = "Text about the site"
+  #images = ["logo.jpg"]
+  startPageColumns = false
+  welcomeText = "STRI con 2020"
+
+[[params.searchEngines]]
+  name = "Google"
+  activated = false
+  url = "https://www.google.com/search"
+
+[[params.searchEngines]]
+  name = "DuckDuckGo"
+  activated = false
+  url = "https://duckduckgo.com/"
+
+[[params.searchEngines]]
+  name = "Bing"
+  activated = false
+  url = "https://www.bing.com/search"

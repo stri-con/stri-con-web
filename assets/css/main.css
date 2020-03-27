@@ -1,0 +1,42 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    background: url("../images/clifford_fac015.png");
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: #007da2;
+    margin: 0px 0px 45px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 52px;
+}
+
+.card {
+    opacity: 0.8;
+}
+.card:hover {
+    opacity: 1.0;
+}
+
+.cursorPointer:hover {
+    cursor: pointer;
+}
+
+.fa, .far, .fas {
+color: #007da2;
+}
+.fa, .far, .fab {
+color: #007da2;
+}
+a {
+color: #007da2;
+}
