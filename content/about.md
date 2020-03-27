@@ -1,6 +1,5 @@
 ---
 date: "2014-04-09"
-menu: main
 title: About Hugo
 ---
 
@@ -15,4 +14,3 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-

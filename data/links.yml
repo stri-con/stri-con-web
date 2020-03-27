@@ -13,9 +13,9 @@
     - title: Slack Site
       url: https://stri-panama.slack.com
       icon: fab fa-slack
-    - title: Some other project
-      url: https://stri-panama.slack.com
-      icon: fab fa-slack
-    - title: And another
-      url: https://stri-panama.slack.com
-      icon: fab fa-slack
+    - title: GitHub
+      url: https://github.com/stri-con
+      icon: fab fa-github
+    - title: About
+      url: about/
+      icon: fas fa-info-circle
